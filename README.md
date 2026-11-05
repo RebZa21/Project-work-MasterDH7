@@ -5,7 +5,7 @@ Analisi quantitativa di drammi tedeschi dello Sturm und Drang (SD) e del Klassiz
 ## Struttura del repository
 
 ```
-nome-repo/
+Project-work-MasterDH7/
 ├── Klassizismus/   ← XML dei drammi del Klassizismus
 ├── SD/             ← XML dei drammi dello Sturm und Drang
 ├── notebook/       ← .ipynb e .html
