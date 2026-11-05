@@ -1,7 +1,9 @@
-# Project-work-MasterDH7/
+```
+Project work Master DH7/
 ├── README.md
-├── SD/          ← gli XML dello Sturm und Drang
-├── Klassik/     ← gli XML del Klassizismus
-├── notebook/    ← i .ipynb e i loro .html
-├── output/      ← tutti i CSV
+├── SD/          ← XML dello Sturm und Drang
+├── Klassik/     ← XML del Klassizismus
+├── notebook/    ← .ipynb e .html
+├── output/      ← CSV
 └── bibliografia.md
+```
