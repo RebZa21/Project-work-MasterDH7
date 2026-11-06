@@ -11,7 +11,8 @@ Project-work-MasterDH7/
 ├── notebook/       .ipynb e .html 
 ├── output/         CSV dei risultati
 ├── LICENSE
-└── README.md
+├── README.md
+└── bibliografia.md
 ```
 
 ## Contenuto
