@@ -10,7 +10,8 @@ Project-work-MasterDH7/
 ├── notebook/       # Notebook Jupyter (.ipynb)
 ├── output/         # CSV dei risultati
 ├── LICENSE
-└── README.md
+├── README.md
+└── bibliografia.md
 ```
 
 ## Contenuto
