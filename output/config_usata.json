@@ -1,11 +1,11 @@
 {
  "corpus": {
-  "base": "/Users/rebeccazani/Desktop/Project work/GerDraCor SD Klassizismus",
+  "base": "..",
   "sottocartelle": {
    "SD": "SD",
    "Klassizismus": "Klassizismus"
   },
-  "cartella_out": "risultati_frequenza",
+  "cartella_out": "output",
   "min_token_opera": 1000,
   "unita": {
    "schiller-wallenstein": [
