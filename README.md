@@ -57,7 +57,7 @@ In `output/` ci sono le tabelle prodotte dal notebook: frequenze relative, parol
 
 ## Dati
 
-I testi sono file TEI scaricati da GerDraCor (https://dracor.org) il <data di download>, in <versione/commit di GerDraCor, se la conosci>. <Condizioni d'uso dei testi: riprendi quanto indicato nell'header TEI dei file.>
+I testi sono file TEI scaricati da GerDraCor (https://dracor.org).
 
 ## Uso di strumenti di IA
 
