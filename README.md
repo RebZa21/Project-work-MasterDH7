@@ -12,10 +12,10 @@ Project-work-MasterDH7/
 ├── SD/             # XML dei drammi dello Sturm und Drang
 ├── notebook/       # Notebook Jupyter (.ipynb) e HTML (.html)
 ├── output/         # CSV dei risultati
-├── requirements.txt    pacchetti Python con le versioni usate
 ├── LICENSE
 ├── README.md
-└── bibliografia.md
+├── bibliografia.md
+└── requirements.txt    pacchetti Python con le versioni usate
 ```
 
 I 43 file XML diventano 41 opere nell'analisi, perché le tre parti del Wallenstein di Schiller (`wallensteins-lager`, `die-piccolomini`, `wallensteins-tod`) vengono fuse in un'unica opera.
