@@ -1,0 +1,5 @@
+﻿valutazione,AUC,IC95 inf,IC95 sup,"accuratezza (soglia 0,5)"
+leave-one-work-out (ottimistico),0.9947368421052631,0.9676043557168784,1.0,0.9230769230769231
+leave-one-author-out,0.9842105263157894,0.9583333333333334,1.0,0.9230769230769231
+"dentro goethe (LOAO, 4 SD vs 6 Klassizismus)",0.9583333333333334,,,
+"dentro schiller (LOAO, 3 SD vs 6 Klassizismus)",1.0,,,
