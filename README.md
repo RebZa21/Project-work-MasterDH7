@@ -31,7 +31,7 @@ Serve Python 3.9 (l'analisi è stata eseguita con la 3.9.6).
 2. Crea un ambiente virtuale e installa i pacchetti:
    ```bash
    python -m venv .venv
-   source .venv/bin/activate        # Windows: .venv\Scripts\activate
+   source .venv/bin/activate        
    pip install -r requirements.txt
    ```
 3. Scarica i due modelli linguistici di spaCy (non sono in `requirements.txt`):
