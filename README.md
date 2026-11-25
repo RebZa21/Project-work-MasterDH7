@@ -12,6 +12,7 @@ Project-work-MasterDH7/
 ├── SD/             # XML dei drammi dello Sturm und Drang
 ├── notebook/       # Notebook Jupyter (.ipynb) e HTML (.html)
 ├── output/         # CSV dei risultati
+├── requirements.txt    pacchetti Python con le versioni usate
 ├── LICENSE
 ├── README.md
 └── bibliografia.md
