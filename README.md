@@ -45,7 +45,7 @@ Serve Python 3.9 (l'analisi è stata eseguita con la 3.9.6).
    ```bash
    jupyter lab notebook/frequenza_relativa_SD_Klassizismus.ipynb
    ```
-5. Esegui tutto con *Kernel → Restart Kernel and Run All Cells*.
+5. Esegui tutto con *Kernel > Restart Kernel and Run All Cells*.
 
 Il notebook trova da solo le cartelle `SD/` e `Klassizismus/` risalendo dalla cartella in cui è aperto. Se i dati sono altrove, imposta la variabile d'ambiente `GERDRACOR_BASE` con il percorso della cartella che li contiene. I risultati vengono scritti in `output/`.
 
